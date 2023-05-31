@@ -1,6 +1,5 @@
 # :rocket: Metodologias Ágeis
 
-
 Este repositório apresenta um resumo sobre metodologias ágeis, uma abordagem de desenvolvimento de software que visa aprimorar a eficiência, flexibilidade e colaboração na entrega de projetos. Se você está interessado em aprender mais sobre metodologias ágeis ou deseja aprofundar seu conhecimento existente, este guia fornecerá uma visão geral das principais metodologias e práticas.
 
 ## O que são Metodologias Ágeis?
